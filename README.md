@@ -1,5 +1,4 @@
 # network_security_codes
-### 과제 목적
 
 PCAP API를 활용하여 TCP 패킷을 실시간으로 캡쳐하고 
 
